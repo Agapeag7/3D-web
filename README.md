@@ -4,16 +4,9 @@ Ce projet est une démonstration d'effets 3D et de mise en page CSS. Il contient
 
 ## Contenu
 
-- Mise en page responsive
 - Animations CSS 3D
 - Cartes et éléments transformés en perspective
 - Structure simple pour ajouter du contenu
-
-## Installation
-
-1. Ouvrez le dossier du projet dans votre éditeur.
-2. Assurez-vous que les fichiers HTML, CSS
-3. Ouvrez le fichier HTML dans votre navigateur pour voir le rendu.
 
 ## Images
 
@@ -36,6 +29,12 @@ Mettez le nom des images dans le code du slider ci-dessous :
     <div class="item" style="--position: 10"><img src="img/n10.jpg" alt=""></div>
 </div>
 ```
+
+## Installation
+
+1. Ouvrez le dossier du projet dans votre éditeur.
+2. Assurez-vous que les fichiers index.html et style.css sont bien présent
+3. Ouvrez le fichier HTML dans votre navigateur pour voir le rendu.
 
 ## Notes
 
